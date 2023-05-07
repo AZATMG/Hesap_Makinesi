@@ -1,4 +1,4 @@
-# Hesap_Makinesi
+# Hesap_Makinesi /Calculator
 # ======c# Form Hesap Makinesi=====
 #C# Form üzerinden Hesap Makinesi yapımı.
 Zip dosyasını indirip kullanabilirsiniz.
